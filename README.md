@@ -1,2 +1,3 @@
 # Resolvedores-de-DNS-Publicos
- artigo Resolvedores de DNS Públicos: Uma Análise do Estado da Arte
+
+se encontram disponivel a lista de artigos utilizados no artigo Resolvedores de DNS Públicos: Uma Análise do Estado da Arte
